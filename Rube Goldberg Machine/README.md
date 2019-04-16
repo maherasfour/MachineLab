@@ -14,3 +14,7 @@ How to improve reliability:
 -stable path for tire to follow
 -protect snao action switch
 -mechanism for cutting string
+
+
+
+Update: in sketch folder added wooden drawings needed
