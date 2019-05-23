@@ -14,3 +14,5 @@ Prototype:
 System Diagram:
 ![](Images/System.jpg)
 
+Schematics:
+![](Images/Scheme.jpg)
