@@ -4,10 +4,13 @@ The basic concept of my final project is that objects with color (in my case, sk
 
 
 Photos:
+
 ![](Images/Project1.png)
 ![](Images/Project2.jpg)
 
 Prototype:
 ![](Images/Prototype.jpg)
 
+System Diagram:
+![](Images/System.jpg)
 
