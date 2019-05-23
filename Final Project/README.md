@@ -44,3 +44,6 @@ Code:
 ![](Images/Code2.png)
 ![](Images/Code3.png)
 
+
+How Project Works:
+
