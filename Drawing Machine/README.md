@@ -4,3 +4,16 @@ This simple machine allows the user to create variable circular designs. You can
 
 ![](Images/dm1.png)
 ![](Images/dm2.png)
+
+Parts:
+Stepper Motor - 
+Servo Motor - 
+Adafruit Motor Shield V2 - 
+Arduino Uno - 
+Prototyping Shield - 
+3 Push Buttons - 
+Wood - 
+Wooden Sticks - 
+Wooden Clip - 
+Board Marker - 
+Metal Wire
