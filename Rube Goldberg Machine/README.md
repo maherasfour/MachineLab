@@ -34,3 +34,7 @@ The tire stand (as seen in the photos above) was made by attaching a ramp to a p
 Wooden Piece with the Push Button:
 
 First, the wooden piece was made. It consisted of two square wooden pieces that were attached to each other with a hinge. It was screwed together in a manner that when the upright wooden pieced was push it would fall flat on the other piece. Then the push button was attached to the bottom piece with screws and an aluminum piece. However, the bottom piece had to be cut so that the push button can be placed at a height such that when the top piece falls it won’t break the push button, but it would also press it. The push button had a long wire soldered to it that extended to an Arduino and bread board. Connections were made such that when the button was pressed, the LED would light up.
+
+Difficulties:
+
+The only issue with this machine is that it occasionally misses the wooden target. This can easily be fixed by making the wooden piece longer, such that wherever the tire roles it will hit the target.
