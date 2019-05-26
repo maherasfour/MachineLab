@@ -9,6 +9,7 @@ The Rube Goldberg Machine is a machine that is designed to perform a simple task
 Parts:
 
 Stepper Motor -
+Button -
 Sharp Blade -
 Wood -
 Tire -
