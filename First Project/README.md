@@ -7,10 +7,10 @@ This project was the first assignment for our class. It was a simple task; we we
 
 Parts:
 
-DC Motor
-Cardboard
-Bottle Cap
-Straw
+DC Motor-
+Cardboard-
+Bottle Cap-
+Straw-
 Thin Wooden Stick
 
 How it Works:
